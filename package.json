@@ -1,0 +1,11 @@
+{
+  "name": "yamakuchi",
+  "description": "Nuxt.js project",
+  "author": "ryamakuchi <r.yamakuchi@gmail.com>",
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "scripts": {
+    "dev": "nuxt"
+  }
+}
